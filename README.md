@@ -1,0 +1,2 @@
+# DockerToAliRepo
+使用Github Action将Docker镜像转存到阿里云私有仓库，彻底解决在国内Docker镜像无法拉取的问题。
