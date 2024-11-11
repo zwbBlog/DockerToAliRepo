@@ -2,6 +2,8 @@
 
 使用Github Action将Docker镜像转存到阿里云私有仓库，彻底解决在国内Docker镜像无法拉取的问题。
 
+B站视频教程地址：《三种方案教你轻松搞定搞定国内镜像拉取的问题》 https://www.bilibili.com/video/BV1R4mBYRE4c
+
 ## 具体配置步骤
 
 
