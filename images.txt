@@ -5,6 +5,7 @@
 #nacos/nacos-server:v2.1.0
 #redis
 #ghcr.io/sozercan/llama3.1:8b
-ghcr.io/open-webui/open-webui:ollama
+#ghcr.io/open-webui/open-webui:ollama
+cr2.fit2cloud.com/1panel/maxkb
 
 
