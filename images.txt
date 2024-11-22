@@ -6,6 +6,7 @@
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
-cr2.fit2cloud.com/1panel/maxkb
+ghcr.io/open-webui/open-webui:cuda
+#cr2.fit2cloud.com/1panel/maxkb
 
 
