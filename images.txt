@@ -6,7 +6,8 @@
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
-ghcr.io/open-webui/open-webui:cuda
+#ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
+kubesphere/ks-installer:v3.4.1
 
 
