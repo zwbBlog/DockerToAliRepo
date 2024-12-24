@@ -10,5 +10,6 @@
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
 #docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.17.0
-docker.elastic.co/elasticsearch/elasticsearch:8.17.0
+#docker.elastic.co/elasticsearch/elasticsearch:8.17.0
+docker.elastic.co/kibana/kibana:8.17.0
 
