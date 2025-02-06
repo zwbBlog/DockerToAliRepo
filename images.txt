@@ -14,5 +14,6 @@ redis:7.4.1
 #docker.elastic.co/kibana/kibana:8.17.0
 neo4j:5.26.0-community-bullseye
 portainer/portainer-ce:alpine-sts
+ollama/ollama:latest
 
 
